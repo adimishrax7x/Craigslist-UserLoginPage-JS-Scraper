@@ -18,3 +18,4 @@ The Code Scrapes Craigslist login page using puppeteer .
               $ node index.js
 
 Refer to the comments in the source code for more info . 
+Ypu have to Enter your own/dummy username & password before running .
