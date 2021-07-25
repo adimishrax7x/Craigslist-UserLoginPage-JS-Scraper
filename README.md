@@ -8,7 +8,7 @@ The Code Scrapes Craigslist login page using puppeteer .
 ## Steps to View Project :
 
 - DOWNLOAD the .zip file or clone the rep.
-- cd to the folder where the where the sttarting files exist .
+- cd to the folder where the where the starting files exist .
 - Install the dependencies from your package.json file OR Run the following command
 
               $ npm install
